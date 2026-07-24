@@ -7,3 +7,4 @@
 - I am particularly interested in **AI for agriculture**, including crop management, plant phenotyping, and data-driven breeding support.
 - 🌐 Languages: R, Python, English, Vietnamese, Japanese
 - 📫 Email: ntdduc11@gmail.com
+- Website: https://ntducphd.github.io/
