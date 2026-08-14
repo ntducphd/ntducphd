@@ -1,6 +1,6 @@
 # Xin chào · Namaste 🙏 · こんにちは
 
-- My name is **Nguyen Trung Duc**. I am currently a **JDS PhD fellow ** at **Kyushu University, Japan**, in the Graduate School of Bioresource and Bioenvironmental Sciences, Mathematical Modeling Laboratory.
+- My name is **Nguyen Trung Duc**. I am currently a ** JDS PhD fellow ** at **Kyushu University, Japan**, in the Graduate School of Bioresource and Bioenvironmental Sciences, Mathematical Modeling Laboratory.
 - I am also a **researcher at Vietnam National University of Agriculture (VNUA)**.
 - I received my M.Sc. in **Agricultural Science, Plant Physiology** from **ICAR – Indian Agricultural Research Institute**.
 - My research focuses on integrating **genomics, phenomics, remote sensing, machine learning, and crop modeling** to understand crop adaptation, nitrogen-use efficiency, and sustainable agricultural systems.
